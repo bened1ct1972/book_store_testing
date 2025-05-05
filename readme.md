@@ -1,4 +1,4 @@
-# Это automation-тест для школы тестировщиков be be-tester
+# Это automation-тест для школы Be-tester
 
 + Home добавление комментария комментария
 + Registration_login регистрация аккаунта аккаунта
